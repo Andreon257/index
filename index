@@ -14,7 +14,7 @@
           padding: 15px;
         }
         main{
-          background-color: #FFFFFF;
+          background-color: #808080;
           color: #000000;
           max-width: 800px;
           margin: 0 auto;
